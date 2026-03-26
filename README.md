@@ -25,6 +25,7 @@ This project implements a **content-based recommendation system** that suggests 
 ---
 
 ## 📂 Project Structure
+```
 content-based-recommender/
 │── data/
 │── notebooks/
@@ -39,7 +40,7 @@ content-based-recommender/
 │── requirements.txt
 │── README.md
 
----
+```
 
 ## ⚙️ Installation
 
