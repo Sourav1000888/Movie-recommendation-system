@@ -6,8 +6,6 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 from datetime import datetime
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 import os
 
 # # Content-based movie recommendation system
